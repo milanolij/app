@@ -13,6 +13,7 @@
     },
     "android": {
       "package": "be.reddersnet.app",
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
@@ -45,8 +46,10 @@
     },
     "extra": {
       "eas": {
-        "projectId": ""
-      }
-    }
+        "projectId": "a12d7bb4-721d-48eb-bdce-19c183558655"
+      },
+      "router": {}
+    },
+    "owner": "milan_olijslagers"
   }
 }

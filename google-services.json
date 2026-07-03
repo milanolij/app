@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63078858217",
+    "project_id": "reddersnet",
+    "storage_bucket": "reddersnet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63078858217:android:0ed937e048cc9078eb1f78",
+        "android_client_info": {
+          "package_name": "be.reddersnet.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWudDLhqhFV0Y6uNyz3cH2Px7TYfCWvAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
